@@ -1,0 +1,41 @@
+
+
+.logo img{
+    width: 100%;
+    
+}
+.logo{
+    width: 140px;
+    height: auto;
+    
+}
+.btn-bg{
+    background-color: #E76F51;
+    
+}
+.col-md-6 img{
+    width: 100%;
+    height: auto;
+}
+.banner{
+    width: 100%;
+    height: 698px;
+}
+.carousel-item .banner-item{
+    margin-top: 140px;
+}
+.main-card img{
+    width: 100%;
+}
+.card img{
+    width:140px;
+    height: auto;
+    margin: auto;
+    padding: 20px 0;
+}
+
+.footer-img img{
+    width: 140px;
+    height: auto;
+    margin: 14px auto;
+}
